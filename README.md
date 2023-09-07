@@ -1,7 +1,7 @@
 # Запуск проекта
 
-Выполнить команду npm install
-Далее выполнить npm run start
+1. Выполнить команду npm install
+2. Далее выполнить npm run start
 
 
 
