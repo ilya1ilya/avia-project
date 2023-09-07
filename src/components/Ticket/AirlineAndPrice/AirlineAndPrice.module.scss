@@ -1,0 +1,13 @@
+.airline-and-price-container {
+  height: 72px;
+  padding: 20px 17px 20px 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  & span {
+    font-size: 20px;
+    font-weight: 700;
+  }
+}

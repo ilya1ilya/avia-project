@@ -1,0 +1,11 @@
+.price-container {
+  margin-right: 15px;
+  margin-left: 10px;
+
+  display: flex;
+  flex-direction: column;
+
+  &-title {
+    font-weight: 600;
+  }
+}
